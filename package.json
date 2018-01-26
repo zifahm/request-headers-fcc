@@ -1,0 +1,17 @@
+{
+  "name": "get-ip-fcc",
+  "version": "1.0.0",
+  "description": "get ip/os fcc",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
